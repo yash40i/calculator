@@ -5,13 +5,13 @@ public class Calculator {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter first number: ");
-        double num1 = 56
+        double num1 = 56;
 
         System.out.print("Enter operator (+, -, *, /): ");
-        char operator = '+'
+        char operator = '+';
 
         System.out.print("Enter second number: ");
-        double num2 = 3.00
+        double num2 = 3.00;
 
         double result;
 
