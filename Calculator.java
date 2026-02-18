@@ -33,7 +33,7 @@ public class Calculator {
                 result = num1 / num2;
                 break;
             default:
-                System.out.println("Invalid operator!");
+                System.out.println("you have entered Invalid operator!");
                 return;
         }
 
